@@ -243,19 +243,19 @@ private class GodDrinks {
         // I've studied
         // I've studied how to properly
         // LO-O-OVE
-         me
+        me
             .Learn(LOVE)
-        // Question me
-        // Question me, I can answer all
-        // LO-O-OVE
+            // Question me
+            // Question me, I can answer all
+            // LO-O-OVE
             .Test(LOVE)
-        // I know the
-        // algebraic expression of
-        // LO-O-OVE
+            // I know the
+            // algebraic expression of
+            // LO-O-OVE
             .Find(Math.Algebraic.Expression, FEELINGS.LOVE)
-        // Though you are free
-        // I am trapped, trapped in
-        // LO-O-OVE
+    // Though you are free
+    // I am trapped, trapped in
+    // LO-O-OVE
             .Escape(LOVE);
  
  

@@ -243,19 +243,19 @@ export default class GodDrinks {
         // I've studied
         // I've studied how to properly
         // LO-O-OVE
-         me
+        me
             .learn(LOVE)
-        // Question me
-        // Question me, I can answer all
-        // LO-O-OVE
+            // Question me
+            // Question me, I can answer all
+            // LO-O-OVE
             .test(LOVE)
-        // I know the
-        // algebraic expression of
-        // LO-O-OVE
+            // I know the
+            // algebraic expression of
+            // LO-O-OVE
             .find(Math.Algebraic.Expression, FEELINGS.LOVE)
-        // Though you are free
-        // I am trapped, trapped in
-        // LO-O-OVE
+            // Though you are free
+            // I am trapped, trapped in
+            // LO-O-OVE
             .escape(LOVE)
  
  
